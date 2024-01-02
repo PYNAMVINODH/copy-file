@@ -30,9 +30,12 @@ with open("file1.txt","w") as f1:
 ```
 
 ### OUTPUT:
-![output](./copy1output.png)
-![output](./copy2output.png)
-![output](./copy3output.png)
+![image](https://github.com/PYNAMVINODH/copy-file/assets/145742678/44e4a458-ceca-41e6-9f51-54da5edb33ef)
+
+![image](https://github.com/PYNAMVINODH/copy-file/assets/145742678/15472557-ceb5-498f-9fed-ea5f9a982609)
+
+![image](https://github.com/PYNAMVINODH/copy-file/assets/145742678/86a55bb1-40c1-41e0-9613-05fcb714701e)
+
 
 
 
