@@ -23,9 +23,9 @@ End of the program
 # To write a program for coping the contents from one to another file.
 # Developed by : PYNAM VINODH
 #RegisterNumber:212223240131
-with open("file.txt","r") as f:
+with open("file1.txt","r") as f1:
     x=f.read()
-with open("file1.txt","w") as f1:
+with open("file2.txt","w") as f2
     f1.write(x)
 ```
 
